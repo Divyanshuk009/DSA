@@ -1,0 +1,23 @@
+# Compiled executables and binaries
+*.exe
+*.out
+*.o
+*.obj
+*.app
+*.bin
+
+# VS Code & Editor artifacts
+.vscode/
+tempCodeRunnerFile.*
+*.swp
+*~
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Non-DSA directories and exports
+database/
+exports/
+habit-tracker/
