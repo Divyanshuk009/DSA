@@ -54,7 +54,7 @@ int main()
     node *root = NULL;
     // creating a tree
     root = buildTree(root);
-
+    // d
     // 1 3 7 -1 -1 11 -1 -1 5 17 -1 -1 -1
     // level order
     cout << "printing the level order traversal output " << endl;
